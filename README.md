@@ -6,7 +6,7 @@ This SOP explains how to create an Azure resource group, configure a storage acc
 
 ### Link to Loom
 
-<https://loom.com/share/5986535597694b65854d685e6644d144>
+https://www.loom.com/share/2e78aca897d445d29c8fd00ca0168ee7
 
 **1. Create a Resource Group in Azure** [0:08](https://loom.com/share/5986535597694b65854d685e6644d144?t=8)
 
