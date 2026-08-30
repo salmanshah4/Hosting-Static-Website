@@ -87,7 +87,3 @@ This SOP explains how to create an Azure resource group, configure a storage acc
 - Keep the primary endpoint bookmarked for quick testing.
 - Refresh the container view after uploads to confirm files were added successfully.
 - Use the built-in View/Edit option for quick content changes instead of re-uploading files when only small edits are needed.
-
-### Link to Loom
-
-<https://loom.com/share/5986535597694b65854d685e6644d144>
